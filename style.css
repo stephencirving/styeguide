@@ -1,0 +1,59 @@
+head {
+  display: none;
+}
+
+body {
+font-family: 'Source Sans Pro', sans-serif;
+margin: 0 10%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.div-class {
+margin: 10px;
+}
+
+#blue {
+  background-color: #4566E9;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 80px;
+}
+
+#red {
+  background-color: #E5346F;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 80px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bold-italic {
+  font-weight: bold;
+}
+
+.heading-1 {
+  font-size: 28px;
+  text-align: left;
+}
+
+.heading-2 {
+  font-size: 22px;
+}
+
+.heading-3 {
+  font-size: 18px;
+}
