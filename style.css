@@ -43,6 +43,7 @@ margin: 10px;
 
 .bold-italic {
   font-weight: bold;
+  font-style: italic;
 }
 
 .heading-1 {
